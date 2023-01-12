@@ -123,10 +123,10 @@ bgcolor="cyan">
 ```
 
 # OUPUT
-![OUTPUT](http://premkumark.student.saveetha.in:8000/static/images/out (2).png?raw=true)
+![OUTPUT](./svm.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://premkumark.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR](./valid.png)
 
 # RESULT
 The program for creating slot time table is completed successfully
