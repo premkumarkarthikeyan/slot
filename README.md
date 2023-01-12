@@ -123,7 +123,7 @@ bgcolor="cyan">
 ```
 
 # OUPUT
-![OUTPUT](http://premkumark.student.saveetha.in:8000/static/images/out(2).png?raw=true)
+![OUTPUT](http://premkumark.student.saveetha.in:8000/static/images/out (2).png?raw=true)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://premkumark.student.saveetha.in:8000/static/images/valid.png?raw=true)
